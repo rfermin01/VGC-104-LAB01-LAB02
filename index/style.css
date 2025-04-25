@@ -1,22 +1,11 @@
-.lozimg
+a
 {
-    width: 300px;
-    border: double 2px;
-    padding: 1px;
-    background-color: grey;
-}
-
-a:link
-{
-
     color: white;    
 }
 
 a:hover 
 {
-
 font-weight: bold;
-
 }
 
 body
@@ -31,6 +20,38 @@ h1
 color: red;
 font-size: 30px;   
  
+}
+
+.codcover
+{
+    width: 300px;
+    border: double 2px;
+    padding: 1px;
+    background-color: grey;
+}
+
+.lozimg
+{
+    width: 300px;
+    border: double 2px;
+    padding: 1px;
+    background-color: grey;
+}
+
+.mmcover
+{
+    width: 300px;
+    border: double 2px;
+    padding: 1px;
+    background-color: grey;
+}
+
+.re4cover
+{
+    width: 300px;
+    border: double 2px;
+    padding: 1px;
+    background-color: grey;
 }
 
 .ffcover
