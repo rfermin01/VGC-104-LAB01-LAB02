@@ -1,0 +1,42 @@
+.lozimg
+{
+    width: 300px;
+    border: double 2px;
+    padding: 1px;
+    background-color: grey;
+}
+
+a:link
+{
+
+    color: white;    
+}
+
+a:hover 
+{
+
+font-weight: bold;
+
+}
+
+body
+{background-color: black;}
+p1
+{color: white;}
+h2
+{font-weight: 100;}
+
+h1
+{
+color: red;
+font-size: 30px;   
+ 
+}
+
+.ffcover
+{
+    width: 300px;
+    border: double 2px;
+    padding: 1px;  
+    background-color: grey;
+}
